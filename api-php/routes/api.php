@@ -2,8 +2,6 @@
 
 use Illuminate\Http\Request;
 
-//Use App\ForecastController;
-
 /*
 |--------------------------------------------------------------------------
 | API Routes
