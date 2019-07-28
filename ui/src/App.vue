@@ -16,5 +16,8 @@ export default {
   data: () => ({
     //
   }),
+  mounted() {
+    console.log("Hi DAS team 🌦️")
+  }
 };
 </script>
